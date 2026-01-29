@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="http://e.erw.cc/e.xml"
 #EXTINF:-1 "1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://t.061899.xyz/tl/dq.php?id=cctv1
 #EXTINF:-1 "2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -259,4 +259,5 @@ http://t.061899.xyz/tl/dq.php?id=jsjy
 http://t.061899.xyz/tl/dq.php?id=jstyxx
 #EXTINF:-1 "348" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="数字付费",优漫卡通
 http://t.061899.xyz/tl/dq.php?id=ymkt
+
 
