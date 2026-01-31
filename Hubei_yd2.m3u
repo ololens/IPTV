@@ -83,9 +83,9 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230577/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="央视其他",CGTN
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录片.png" group-title="央视其他",CGTN纪录片
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录.png" group-title="央视其他",CGTN纪录
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230529/1.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录片.png" group-title="央视其他",CGTN纪录片
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录.png" group-title="央视其他",CGTN纪录
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西语.png" group-title="央视其他",CGTN西语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230480/1.m3u8
@@ -299,7 +299,7 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230553/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230607/1.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="影视",都市剧场
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230619/1.m3u8
-#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/晴彩青少.png" group-title="其他",晴彩青少
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="其他",睛彩青少
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230584/1.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="其他",睛彩篮球
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230336/1.m3u8
@@ -407,8 +407,6 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230487/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230544/1.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="少儿",动漫秀场
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230621/1.m3u8
-#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/晴彩青少.png" group-title="少儿",晴彩青少
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230584/1.m3u8
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新闻综合.png" group-title="地方",新闻综合
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229763/1.m3u8
 #EXTINF:-1 tvg-name="公共新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/公共新闻.png" group-title="地方",公共新闻
