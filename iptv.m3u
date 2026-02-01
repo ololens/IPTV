@@ -160,8 +160,6 @@ http://t.061899.xyz/tl/dq.php?id=qhws
 http://t.061899.xyz/tl/dq.php?id=hnws
 #EXTINF:-1 "41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://t.061899.xyz/tl/dq.php?id=dnws
-#EXTINF:-1 "" tvg-name="大湾区卫视" tvg-logo="" group-title="未分类",大湾区卫视
-http://t.061899.xyz/tl/dq.php?id=dwqws
 #EXTINF:-1 "37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://t.061899.xyz/tl/dq.php?id=hinws
 #EXTINF:-1 "40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
@@ -217,5 +215,5 @@ http://t.061899.xyz/tl/dq.php?id=hxjc
 http://t.061899.xyz/tl/dq.php?id=fztd
 #EXTINF:-1 "1857" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="其他",新视觉
 http://t.061899.xyz/tl/dq.php?id=mlzq
-#EXTINF:-1 "" tvg-name="劲爆体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/劲爆体育.png" group-title="其他",劲爆体育
+#EXTINF:-1 "" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/劲爆体育.png" group-title="其他",劲爆体育
 http://t.061899.xyz/tl/dq.php?id=jbty
