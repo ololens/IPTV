@@ -201,11 +201,11 @@ http://t.061899.xyz/tl/dq.php?id=hxws
 #EXTINF:-1 "" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://t.061899.xyz/tl/dq.php?id=dwqws
 #其他
-#EXTINF:-1 "" tvg-name="CGTV西班牙语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西语.png" group-title="其他",CGTV西班牙语
+#EXTINF:-1 "" tvg-name="CGTV西语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西语.png" group-title="其他",CGTV西班牙语
 http://t.061899.xyz/tl/dq.php?id=cgtne
 #EXTINF:-1 "" tvg-name="CGTV法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="其他",CGTV法语
 http://t.061899.xyz/tl/dq.php?id=cgtnf
-#EXTINF:-1 "" tvg-name="CGTV阿拉伯语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿语.png" group-title="其他",CGTV阿拉伯语
+#EXTINF:-1 "" tvg-name="CGTV阿语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿语.png" group-title="其他",CGTV阿拉伯语
 http://t.061899.xyz/tl/dq.php?id=cgtna
 #EXTINF:-1 "" tvg-name="CGTV俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="其他",CGTV俄语
 http://t.061899.xyz/tl/dq.php?id=cgtnr
