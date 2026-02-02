@@ -305,7 +305,7 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230336/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230371/1.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="其他",睛彩广场舞
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
-#EXTINF:-1 tvg-name="BesTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BesTV.png" group-title="其他",BesTV
+#EXTINF:-1 tvg-name="BesTV" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/BesTV.png" group-title="其他",BesTV
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230052/1.m3u8
 #EXTINF:-1 tvg-name="BesTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BesTV.png" group-title="其他",BesTV
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230058/1.m3u8
