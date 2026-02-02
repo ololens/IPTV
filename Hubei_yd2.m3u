@@ -343,7 +343,7 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230479/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229871/1.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/茶频道.png" group-title="其他",茶频道
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229873/1.m3u8
-#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园频道.png" group-title="其他",梨园频道
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南梨园.png" group-title="其他",梨园频道
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230496/1.m3u8
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文物宝库.png" group-title="其他",文物宝库
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230547/1.m3u8
