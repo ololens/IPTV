@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://e.erw.cc/e.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 "1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://t.061899.xyz/tl/dq.php?id=cctv1
 #EXTINF:-1 "2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -26,7 +26,7 @@ http://t.061899.xyz/tl/dq.php?id=cctv11
 #EXTINF:-1 "13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://t.061899.xyz/tl/dq.php?id=cctv12
 #EXTINF:-1 "14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://t.061899.xyz/tl/dq.php?id=cctv13
+http://k.061899.xyz/m.php?id=cctv13
 #EXTINF:-1 "15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://t.061899.xyz/tl/dq.php?id=cctv14
 #EXTINF:-1 "16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
@@ -108,7 +108,7 @@ http://t.061899.xyz/tl/tl.php?id=cctv12
 #EXTINF:-1 "13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://go.bkpcp.top/mg/cctv12
 #EXTINF:-1 "14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://k.061899.xyz/m.php?id=cctv13
+http://t.061899.xyz/tl/dq.php?id=cctv13
 #EXTINF:-1 "14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://t.061899.xyz/tl/tl.php?id=cctv13
 #EXTINF:-1 "14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
@@ -201,13 +201,13 @@ http://t.061899.xyz/tl/dq.php?id=hxws
 #EXTINF:-1 "" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://t.061899.xyz/tl/dq.php?id=dwqws
 #其他
-#EXTINF:-1 "" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西语.png" group-title="其他",CGTV西班牙语
+#EXTINF:-1 "" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西语.png" group-title="其他",CGTN西班牙语
 http://t.061899.xyz/tl/dq.php?id=cgtne
-#EXTINF:-1 "" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="其他",CGTV法语
+#EXTINF:-1 "" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="其他",CGTN法语
 http://t.061899.xyz/tl/dq.php?id=cgtnf
-#EXTINF:-1 "" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿语.png" group-title="其他",CGTV阿拉伯语
+#EXTINF:-1 "" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿语.png" group-title="其他",CGTN阿拉伯语
 http://t.061899.xyz/tl/dq.php?id=cgtna
-#EXTINF:-1 "" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="其他",CGTV俄语
+#EXTINF:-1 "" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="其他",CGTN俄语
 http://t.061899.xyz/tl/dq.php?id=cgtnr
 #EXTINF:-1 "1277" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="其他",欢笑剧场
 http://t.061899.xyz/tl/dq.php?id=hxjc
